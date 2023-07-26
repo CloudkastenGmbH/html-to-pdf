@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "A simple microservice which allows you to convert HTML to a PDF file. With wkhtmltopdf.",
   "main": "app.js",
-  "author": "Marcel Gross <marcel.gross@kurzdigital.com>",
+  "author": "Alexander Hagemann <alexander.hagemann@cloudkasten.net>",
   "license": "UNLICENSE",
   "dependencies": {
     "body-parser": "^1.18.3",
